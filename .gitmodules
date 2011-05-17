@@ -3,4 +3,4 @@
 	url = http://github.com/vim-scripts/pathogen.vim.git
 [submodule "scripts/utility/rails.vim"]
 	path = scripts/utility/rails.vim
-	url = http://github.com/vim-scripts/rails.vim.git
+	url = http://github.com/vim-scripts/rails.vim
